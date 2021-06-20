@@ -1,7 +1,7 @@
 ## Lucas Fernando
 
 <center>
-![] ("https://lucasfernandodev.com.br/assets/img/lucasfernandodev_baloes.svg" =550x300)
+<img src="https://lucasfernandodev.com.br/assets/img/lucasfernandodev_baloes.svg" />
 </center>
 
 Sou desenvolvedor frontend & Backend.
