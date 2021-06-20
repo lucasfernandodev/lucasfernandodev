@@ -1,7 +1,7 @@
 ## Lucas Fernando
 
 <center>
-<img src="https://raw.githubusercontent.com/lucasfernandodev/lucasfernandodev/main/lucasfernandodev_baloes.svg" alt="balões" style="width:450px; max-width: 390px"/>
+<img src="https://raw.githubusercontent.com/lucasfernandodev/lucasfernandodev/fd8f3bbe6d39404a210d36a8195391a4f17917eb/lucasfernandodev_baloes.svg" alt="balões" style="width:450px; max-width: 390px"/>
 </center>
 
 Sou desenvolvedor frontend & Backend.
