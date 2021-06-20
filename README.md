@@ -1,6 +1,8 @@
 ## Lucas Fernando
 Sou desenvolvedor frontend & Backend
 
+<img src="https://lucasfernandodev.com.br/assets/img/lucasfernandodev_baloes.svg" alt="balões"/>
+
 Procuro sempre aprender e testar novas tecnologias e adquirir novos conhecimentos. Aqui no meu perfil GitHub você pode ver todos os meus projetos.
 
 <a href="https://instagram.com/lucasfernando.dev"><img alt="instagram Badge" src="https://img.shields.io/badge/-@lucasfernando.dev-3271ff?style=flat-square&labelColor=3271ff&logo=instagram&logoColor=white&link=https://instagram.com/lucasfernando.dev"/></a>
