@@ -1,6 +1,6 @@
 ## Lucas Fernando
 
-<center><img src="https://lucasfernandodev.com.br/assets/img/lucasfernandodev_baloes.svg" alt="balões" height: 550px; width: auto  /></center>
+<center><img src="https://lucasfernandodev.com.br/assets/img/lucasfernandodev_baloes.svg" alt="balões" height: 350px; width: auto  /></center>
 
 Sou desenvolvedor frontend & Backend.
 Procuro sempre aprender e testar novas tecnologias e adquirir novos conhecimentos. Aqui no meu perfil GitHub você pode ver todos os meus projetos.
