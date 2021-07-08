@@ -7,6 +7,6 @@ Sou desenvolvedor frontend & Backend.
 <a href="mailto:lucasfernando.dev@gmail.com"><img alt="Gmail Badge" src="https://img.shields.io/badge/-lucasfernando.dev@gmail.com-3271ff?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasfernando.dev@gmail.com"/></a>
 
 
-Always learning 🖤.
+Always learning 🖤
 
 
