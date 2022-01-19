@@ -1,10 +1,18 @@
-# 😎 Olá, Bem Vindo!
+# Olá, Bem Vindo <img src="./11.gif" width="32px" height="32px" />
 
 Olá, meu nome é Lucas Fernando e sou desenvolvedor front-end. Apaixonado por programação e tecnologia, procurando projetos interessantes..
 
+### Tecnologias
 
-<a href="https://instagram.com/lucasfernando.dev"><img alt="instagram Badge" src="https://img.shields.io/badge/-@lucasfernando.dev-3271ff?style=flat-square&labelColor=3271ff&logo=instagram&logoColor=white&link=https://instagram.com/lucasfernando.dev"/></a>
-<a href="https://www.linkedin.com/in/lucasfernandodev/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Lucas%20Fernando-3271ff?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasfernandodev/"/></a>
-<a href="mailto:lucasfernando.dev@gmail.com"><img alt="Gmail Badge" src="https://img.shields.io/badge/-lucasfernando.dev@gmail.com-3271ff?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasfernando.dev@gmail.com"/></a>
+<a href="" /><img src="" /></a>
+<a href="" target="_blank"/><img src="" /></a>
+<a href="" target="_blank"/><img src="" /></a>
+<a href="" target="_blank"/><img src="" /></a>
+
+### Me encontre 📍
+<a href="https://www.instagram.com/lucasfernando.dev/" target="_blank" /><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://www.linkedin.com/in/frontlucasfernandodev/" target="_blank" /><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="https://codepen.io/lucasfernandodev" target="_blank" /><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"/></a>
+<a href="mailto:lucasfernando.dev@gmail.com" target="_blank" /><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
 
