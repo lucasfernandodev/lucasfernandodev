@@ -14,6 +14,9 @@ Olá, meu nome é Lucas Fernando e sou desenvolvedor front-end. Apaixonado por p
 <a href="/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
 
 
+## 🚀 Projetos que estou Trabalhando no momento
+
+-<a href="https://github.com/lucasfernandodev/frontendmentor"><b>FRontend Mentor</b></a>
 
 
 ## 📍 Me encontre
