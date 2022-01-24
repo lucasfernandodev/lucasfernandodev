@@ -16,8 +16,8 @@ Olá, meu nome é Lucas Fernando e sou desenvolvedor front-end. Apaixonado por p
 
 ## 🚀 Ultimos Projetos
 
--<a href="https://github.com/lucasfernandodev/frontendmentor"><b>Frontend Mentor</b></a>
--<a href="https://github.com/lucasfernandodev/portfolio"><b>Portfolio</b></a>
+- <a href="https://github.com/lucasfernandodev/frontendmentor"><b>Frontend Mentor</b></a><br>
+- <a href="https://github.com/lucasfernandodev/portfolio"><b>Portfolio</b></a>
 
 
 ## 📍 Me encontre
