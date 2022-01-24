@@ -14,14 +14,15 @@ Olá, meu nome é Lucas Fernando e sou desenvolvedor front-end. Apaixonado por p
 <a href="/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
 
 
-## 🚀 Projetos que estou Trabalhando no momento
+## 🚀 Ultimos Projetos
 
--<a href="https://github.com/lucasfernandodev/frontendmentor"><b>FRontend Mentor</b></a>
+-<a href="https://github.com/lucasfernandodev/frontendmentor"><b>Frontend Mentor</b></a>
+-<a href="https://github.com/lucasfernandodev/portfolio"><b>Portfolio</b></a>
 
 
 ## 📍 Me encontre
 
-  Entre em contato comigo diretamente por email ou pelas redes sociais, Dê uma passada no meu Codepen e veja um pouco mais do meu trabalho.
+  Alguns lugares onde você pode me achar..
 
 <a href="https://www.instagram.com/lucasfernando.dev/" target="_blank" /><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://www.linkedin.com/in/frontlucasfernandodev/" target="_blank" /><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
