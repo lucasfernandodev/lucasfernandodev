@@ -1,6 +1,6 @@
 # Olá, Bem Vindo <img src="./11.gif" width="32px" height="32px" />
 
-Olá, meu nome é <b>Lucas Fernando<b> e sou desenvolvedor frontend, focado em estudar e desenvelver novos projetos com o objetivo de começar a trabalhar esse ano. Apaixonado por café e pelo desenvolvimento web, procurando projetos interessantes e novos problemas sem soluções..
+Olá, meu nome é <b>Lucas Fernando</b> e sou desenvolvedor frontend, focado em estudar e desenvelver novos projetos com o objetivo de começar a trabalhar esse ano. Apaixonado por café e pelo desenvolvimento web, procurando projetos interessantes e novos problemas sem soluções..
 
 ## ⚡ Tecnologias
   
