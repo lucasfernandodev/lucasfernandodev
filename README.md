@@ -28,7 +28,7 @@ Sou apaixonado por café e tecnologias principalmente na área de programção e
 
 - <a href="https://github.com/lucasfernandodev/frontendmentor"><b>Frontend Mentor</b></a><br>
 - <a href="https://github.com/lucasfernandodev/portfolio"><b>Portfolio</b></a>
-- <a href="https://github.com/lucasfernandodev/search-emoji"><b>search-emoji</b></a>
+- <a href="https://github.com/lucasfernandodev/search-emoji"><b>Search Emoji</b></a>
 
 ## 📍 Me encontre
 
