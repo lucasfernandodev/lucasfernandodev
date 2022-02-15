@@ -24,7 +24,7 @@ Tenho 20 anos, sou apaixonado por café e novas tecnologias, principalmente na �
 - <a href="https://github.com/lucasfernandodev/portfolio"><b>Portfolio</b></a>
 - <a href="https://github.com/lucasfernandodev/search-emoji"><b>Search Emoji</b></a>
 
-## 📍 Me encontre
+## 🌍 Me encontre na web
 
   Alguns lugares onde você pode me achar..
 
