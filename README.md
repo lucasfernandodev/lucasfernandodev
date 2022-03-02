@@ -1,13 +1,12 @@
 # Olá, Bem Vindo <img src="./11.gif" width="32px" height="32px" />
 
-Olá, meu nome é <b>Lucas Fernando</b> e sou <b>desenvolvedor frontend</b>, estou focado em estudar e desenvolver novos projetos com o objetivo de começar a trabalhar esse ano.
+Olá, meu nome é <b>Lucas Fernando</b> e sou <b>desenvolvedor front-end</b>, estou focado em estudar e desenvolver novos projetos com o objetivo me desenvolver e conseguir meu primeiro emprego.
 
 
-Tenho 20 anos, sou apaixonado por café e novas tecnologias, principalmente na área de programação e jogos, procurando projetos interessantes e novos problemas sem soluções para codar..
-
+Tenho 21 anos, tenho como passatempo estudar UI ou desenvolver o que vem a cabeça principalmente, jogos e interfaces, como desenvolvedor venho sempre procurando melhorar estudando novas tecnologias e me aprofundando nas relacionadas ao Front-end, por aqui você pode encontrar meus projetos e ter uma ideia melhor de como soluciono problemas.
 ## ⚡ Tecnologias
   
-  Essas são as tecnologias que estou usando ou estudando no momento.
+  Essas são as tecnologias que estou usando ou estudando no momento:
 
 - HTML5
 - CSS3
