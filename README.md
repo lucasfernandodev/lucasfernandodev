@@ -21,7 +21,7 @@ Tenho 21 anos e tenho como passatempo estudar UI ou desenvolver o que vem a cabe
 
 - <a href="https://github.com/lucasfernandodev/frontendmentor"><b>Frontend Mentor</b></a><br>
 - <a href="https://github.com/lucasfernandodev/portfolio"><b>Portfolio</b></a>
-- <a href="https://github.com/lucasfernandodev/search-emoji"><b>Search Emoji</b></a>
+- <a href="https://github.com/lucasfernandodev/blog"><b>Meu blog</b></a>
 
 
 ## 🌍 Me encontre na web
