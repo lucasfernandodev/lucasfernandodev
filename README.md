@@ -28,7 +28,7 @@ Tenho 21 anos e tenho como passatempo estudar UI ou desenvolver o que vem a cabe
 
 Alguns lugares onde você pode me achar..
 
-<a href="https://www.instagram.com/lucasfernando.dev/" target="_blank">
+<a href="https://www.instagram.com/lucasfernandodev/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram · Lucas Fernando"/>
 </a>
 <a href="https://www.linkedin.com/in/frontlucasfernandodev/" target="_blank">
