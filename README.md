@@ -16,16 +16,16 @@ Olá, meu nome é Lucas Fernando e sou um entusiasta de tecnologia. Desde adoles
 
 ## 🚀 Ultimos Projetos
 
-- <a href="https://github.com/lucasfernandodev/frontendmentor"><b>Frontend Mentor</b></a><br>
-- <a href="https://github.com/lucasfernandodev/portfolio"><b>Portfolio</b></a>
+- <a href="https://github.com/lucasfernandodev/dragoid"><b>dragoid</b></a><br>
 - <a href="https://github.com/lucasfernandodev/blog"><b>Meu blog</b></a>
+- <a href="https://github.com/lucasfernandodev/lucasfernandodev.github.io"><b>Portfolio</b></a>
 
 
 ## 🌍 Me encontre na web
 
 Alguns lugares onde você pode me achar..
 
-<a href="https://www.instagram.com/lucasfernandodev/" target="_blank">
+<a href="https://www.instagram.com/_lucasfernandodev/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram · Lucas Fernando"/>
 </a>
 <a href="https://www.linkedin.com/in/frontlucasfernandodev/" target="_blank">
