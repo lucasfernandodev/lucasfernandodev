@@ -17,7 +17,7 @@ Olá, meu nome é Lucas Fernando e sou um entusiasta de tecnologia. Desde adoles
 ## 🚀 Ultimos Projetos
 
 - <a href="https://github.com/lucasfernandodev/dragoid"><b>Dragoid</b></a><br>
-- <a href="https://github.com/lucasfernandodev/blog"><b>Meu blog</b></a>
+- <a href="https://github.com/lucasfernandodev/blog"><b>Blog</b></a>
 - <a href="https://github.com/lucasfernandodev/lucasfernandodev.github.io"><b>Portfolio</b></a>
 
 
